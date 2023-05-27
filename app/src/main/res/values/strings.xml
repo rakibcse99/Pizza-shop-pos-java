@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Pizza shop</string>
+    <string name="new_order">New Order</string>
+    <string name="current_order">Current Order</string>
+    <string name="store_orders">Store Orders</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="add_pizza">ADD PIZZA</string>
+    <string name="place_order">PLACE ORDER</string>
+    <string name="pizza_customizer">Pizza Customizer</string>
+    <string name="deluxe">Deluxe</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="bacon">Bacon</string>
+    <string name="hawaiian">Hawaiian</string>
+    <string name="sausage">Sausage</string>
+    <string name="ham">Ham</string>
+    <string name="mushrooms">Mushrooms</string>
+    <string name="onions">Onions</string>
+    <string name="olives">Olives</string>
+    <string name="peppers">Peppers</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="tomato">Tomato</string>
+    <string name="extra_cheese">Extra Cheese</string>
+    <string name="dollar">$$$</string>
+    <string name="export_order">export order</string>
+    <string name="medium">Medium</string>
+    <string name="small">Small</string>
+    <string name="large">Large</string>
+    <string name="phoneNumberError">Please enter a valid phone number.</string>
+    <string name="emptyOrderError">Order was not placed because it was empty.</string>
+    <string name="nullPizzaError">Received pizza was invalid.</string>
+    <string name="nullStoreOrdersError">Received store orders were invalid.</string>
+    <string name="selectPizzaType">Please select a pizza type.</string>
+</resources>

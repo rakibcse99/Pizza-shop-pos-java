@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-mdpi/ic_launcher_foreground.xml" value="0.2359375" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3609375" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3609375" />
+        <entry key="app/src/main/res/drawable/pepperoni.xml" value="0.4041666666666667" />
+        <entry key="app/src/main/res/drawable/pizza_planet.xml" value="0.335" />
+        <entry key="app/src/main/res/drawable/pizza_plnaet.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/activity_currentorder.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/activity_newOrder.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/layout/activity_neworder.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/layout/activity_pizzacustomizer.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/activity_storeorders.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2359375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2359375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/pizza_planet.xml" value="0.2359375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/pizza_planet_round.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
