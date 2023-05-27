@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Pizza shop</string>
+    <string name="app_name">Pizza shop pos</string>
     <string name="new_order">New Order</string>
     <string name="current_order">Current Order</string>
     <string name="store_orders">Store Orders</string>
